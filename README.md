@@ -114,7 +114,7 @@ options activated:
 The next sample run shows a calculation over a larger zone (with no debugging
 options activated) from a remote DNS server:
 
-`$ ./haxfr.py amazonaws.com -s 10.31.141.29`
+`$ ./haxfr.py example.com -s 10.31.141.29`
   
     # haxfr ($Revision: 72766 $) by Neustar Inc.
     # Processed 3195 records in 1.158125 seconds
